@@ -12,6 +12,7 @@ const Menu = () => {
             <Nav.Link href="/home">Home</Nav.Link>
             <Nav.Link href="/pokeflex">PokeFlex</Nav.Link>
             <Nav.Link href="/pokegrid">PokeGrid</Nav.Link>
+            <Nav.Link href='/viacep' >ViaCep</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
